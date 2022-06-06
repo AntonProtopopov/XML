@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<english>false</english>
+	<GIT>true</GIT>
+	<Terminal>true</Terminal>
+	<manual_testing>true</manual_testing>
+</root>
